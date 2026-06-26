@@ -1,6 +1,7 @@
 سه تا الگوریتم مختلف برای ال ای دی چشمک زن در آردوینو
 
-′′′cpp
+```cpp
+
 void setup() {
   pinMode(LED_BUILTIN, OUTPUT);
 }
@@ -34,4 +35,4 @@ void loop() {
   digitalWrite(LED, LOW);   
   delay(1000);                      
 }
-′′′
+```
